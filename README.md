@@ -1,6 +1,8 @@
 # Scissor Lift Gerometrical modelling
 
-Scissor Lift Gerometrical modelling using MATLAB
+Scissor Lift Gerometrical modelling using MATLAB.
+
+The mechanism was actuated using forward kinematic equation.
 
 Click to watch in youtube..!!
 
